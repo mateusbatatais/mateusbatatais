@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusbatatais)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mateusbatatais&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbatatais&theme=tokyonight&hide=c%2B%2B,c)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mateusbatatais/mateusbatatais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
